@@ -1,7 +1,7 @@
 
-body {
-background: #6b7c96;
-color: yellow;}
+body {background-color: #6b7c96;
+color: yellow;
+}
 
 
 h1 {
