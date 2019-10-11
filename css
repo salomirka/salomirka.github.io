@@ -1,15 +1,15 @@
 h1 {
-    font-size: 18px;
+    font-size: 32px;
     font-weight : normal;
     font-family: arial, georgia, serif;
     color : #666;
     margin: 0px;
     }
 h2 {
-    font-size: 14px;
+    font-size: 28px;
     font-weight : bold;
     font-family: arial, georgia, serif;
-    color : #666;
+    color : #coral;
     margin-top: 4px;
     margin-bottom: 1px;
     }
