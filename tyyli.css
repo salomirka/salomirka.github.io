@@ -1,10 +1,6 @@
-p {
+body {background-color: #D2BAB5;
  font-family: Arial, Helvetica, sans-serif;
  text-align: center;
- color:#5F1D0E;
-}
-
-body {background-color: #D2BAB5;
 color:#5F1D0E;
 font-size:24px;
 }
