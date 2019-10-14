@@ -13,12 +13,11 @@ font-size:24px;
 
 p {
  background- color: white;
- #rcorners1 {
+ #rcorners1 
   border-radius: 25px;
   background: #73AD21;
   padding: 20px;
   width: 200px;
   height: 150px;
-}
 }
     
