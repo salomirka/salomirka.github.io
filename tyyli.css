@@ -11,12 +11,8 @@ font-size:24px;
   border-width: 5px;
 }
 
-p1 {
- #rcorners
-  
-}
-    
-.rounded-corners {
+p1 {    
+rounded-corners 
  border-style: solid;
   background-color: #FCFAF9;
  border-radius: 50% 20% / 10% 40%;
