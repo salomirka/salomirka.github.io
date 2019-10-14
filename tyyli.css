@@ -1,6 +1,6 @@
 
-body {background-color: #6b7c96;
-color: yellow;
+body {background-color: #f3e0db;
+color:#943b5e;
 font-size:24px;
 }
 
@@ -9,14 +9,14 @@ h1 {
     font-weight : normal;
     font-family: arial, georgia, serif;
     text-align: center;
-    color : white;
+    color : #5F1D0E;
     margin: 20px;
     }
 h2 {
     font-size: 28px;
     font-weight : bold;
     font-family: arial, georgia, serif;
-    color : coral;
+    color : #835B53;
     margin-top: 10px;
     margin-bottom: 10px;
     }
