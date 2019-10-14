@@ -13,7 +13,6 @@ font-size:24px;
 
 p.one  {    
 rounded-corners 
- 
-  background-color: #FCFAF9;
+background-color: #FCFAF9;
  border-radius: 50% 20% / 10% 40%;
 }
