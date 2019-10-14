@@ -4,16 +4,3 @@ body {background-color: #CBAF99;
 color:#5F1D0E;
 font-size:24px;
 }
-
-h1 {
-    font-size: 48px;
-    font-weight : normal;
-    text-align: center;
-    margin: 20px;
-    }
-h2 {
-    font-size: 28px;
-    font-weight : normal;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    }
