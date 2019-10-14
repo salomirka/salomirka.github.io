@@ -1,6 +1,6 @@
 
 body {background-color: #f3e0db;
-color:#943b5e;
+color:#5F1D0E;
 font-size:24px;
 }
 
@@ -9,14 +9,14 @@ h1 {
     font-weight : normal;
     font-family: arial, georgia, serif;
     text-align: center;
-    color : #5F1D0E;
+    color : #943b5e;
     margin: 20px;
     }
 h2 {
     font-size: 28px;
     font-weight : bold;
     font-family: arial, georgia, serif;
-    color : #835B53;
+    color : #943b5e;
     margin-top: 10px;
     margin-bottom: 10px;
     }
